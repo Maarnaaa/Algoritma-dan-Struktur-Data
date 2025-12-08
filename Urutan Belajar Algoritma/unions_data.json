@@ -1,0 +1,43 @@
+{
+  "paket": [
+    {
+      "kode": "P01",
+      "nama": "Camping Basic",
+      "harga": 150000.0,
+      "deskripsi": "Camping + spot foto + fasilitas toilet",
+      "kapasitas": 50
+    },
+    {
+      "kode": "P02",
+      "nama": "Pine Picnic",
+      "harga": 80000.0,
+      "deskripsi": "Area piknik, meja & kebun kecil",
+      "kapasitas": 100
+    },
+    {
+      "kode": "P03",
+      "nama": "Treehouse Stay",
+      "harga": 350000.0,
+      "deskripsi": "Menginap di rumah pohon (1 malam)",
+      "kapasitas": 10
+    }
+  ],
+  "bookings": [],
+  "umkm": [
+    {
+      "id": "U1",
+      "nama": "Bakso Kayu",
+      "harga": 25000.0
+    },
+    {
+      "id": "U2",
+      "nama": "Kopi Tapango",
+      "harga": 15000.0
+    },
+    {
+      "id": "U3",
+      "nama": "Souvenir Pinus",
+      "harga": 50000.0
+    }
+  ]
+}
